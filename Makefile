@@ -6,9 +6,12 @@ JC = javac
 	$(JC) $(JFLAGS) $*.java
 
 CLASSES = \
-        test.java \
+        Intro.java \
+	Story.java \
+	Part1.java \
+	Mechanics.java
 
-default: classes
+default: Intro.class Story.class Part1.class Mechanics.class
 
 classes: $(CLASSES:.java=.class)
 
