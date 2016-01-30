@@ -1,1 +1,3 @@
-This is just a test with absolutely nothing important, trying to figure out github
+Figuring Github with this
+Writing interactive story
+All things belong to FrailSnail
